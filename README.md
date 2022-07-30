@@ -1,7 +1,7 @@
 # SG_ZRP
 RELAXATION TIME FOR A PARAMETRIC FAMILY OF ZERO-RANGE PROCESSES
 
-In this repository you will find the data and code supporting the conclusions of the article 
+In this repository you will find the code used to generate the data and plots with which we support the conclusions of the article 
 "RELAXATION TIME FOR A PARAMETRIC FAMILY OF ZERO-RANGE PROCESSES" (available at https://arxiv.org/pdf/***)
 
 We numerically compute the relaxation time Wα(n, k) for the zero-range processes with
